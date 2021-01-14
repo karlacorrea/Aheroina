@@ -1,5 +1,4 @@
-# Aheroina
-Jogo educativo que ensina a criança a denunciar fala racistas e identificar objetos criados porc cientistas afrodescendentes.
+
 <h3 align="center">
    <img alt="A Heroína" title="#logo" src="https://github.com/karlacorrea/Aheroina/blob/main/A%20Heroina_Data/sprite/logo.png">
    <br><br>
@@ -10,4 +9,46 @@ Jogo educativo que ensina a criança a denunciar fala racistas e identificar obj
   <img
   src="https://screenletstore.appspot.com/img/95aaa0f0-37a4-11e7-a652-7b8128ce3e3b.png"
   title="Piskel editor screenshot"
-  width="50">
+  width="60">
+    <img src="https://img.shields.io/badge/framework-react-blue" />
+  </a>
+ </p>
+</h3>
+
+## 🔖Índice
+
+- [Sobre](#sobre)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Design](#design)
+- [Como Usar](#como-usar)
+- [Como Contribuir](#como-contribuir)
+
+<br>
+
+<a id="sobre"></a>
+## 🧐 Sobre
+
+Jogo educacional que ensina a criança a identificar ações discriminatórias e conhecer alguns heróis negros que criaram itens que nos auxiliam no dia a dia.
+
+<br>
+
+### 😎 Gameplay
+
+Consiste no play interagir com os objetos e personagens da cena, e identificar falas e denunciar, usando setas direcionais e / mouse.
+
+<br>
+
+<a id="tecnologias-utilizadas"></a>
+## 🚀 Tecnologia Utilizada
+
+O projeto foi desenvolvido com a engine Unity **[Unity](https://unity.com/)**
+
+<br>
+
+<a id="design"></a>
+## 🎨 Design
+
+Arte feita em Pixel Art com a ferramenta Piskel **[Pixkel](https://www.piskelapp.com/)**
+
+
+<br>
