@@ -29,7 +29,7 @@ Jogo educacional que ensina a criança a identificar ações discriminatórias e
 ### 😎 Gameplay
 
 Consiste no play interagir com os objetos e personagens da cena, e identificar falas e denunciar, usando setas direcionais e / mouse.
-
+Vídeo gameplay no **[YouTube](https://youtu.be/WSSZTVdFaos)**
 <br>
 
 <a id="tecnologias-utilizadas"></a>
