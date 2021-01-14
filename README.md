@@ -20,8 +20,7 @@
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Design](#design)
-- [Como Usar](#como-usar)
-- [Como Contribuir](#como-contribuir)
+
 
 <br>
 
@@ -41,14 +40,15 @@ Consiste no play interagir com os objetos e personagens da cena, e identificar f
 <a id="tecnologias-utilizadas"></a>
 ## 🚀 Tecnologia Utilizada
 
-O projeto foi desenvolvido com a engine Unity **[Unity](https://unity.com/)**
+O projeto foi desenvolvido com a engine **[Unity](https://unity.com/)**
 
 <br>
 
 <a id="design"></a>
 ## 🎨 Design
 
-Arte feita em Pixel Art com a ferramenta Piskel **[Pixkel](https://www.piskelapp.com/)**
+A direção da arte toda em Pixel arte.
+Ferramenta: Pixel Art com a ferramenta  **[Pixkel](https://www.piskelapp.com/)**
 
 
 <br>
