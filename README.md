@@ -5,12 +5,7 @@
    <b>A Heroína</b>  
    <br><br>
  
- <p align="center">
-  <img
-  src="https://screenletstore.appspot.com/img/95aaa0f0-37a4-11e7-a652-7b8128ce3e3b.png"
-  title="Piskel editor screenshot"
-  width="60">
-    <img src="https://img.shields.io/badge/framework-react-blue" />
+
   </a>
  </p>
 </h3>
